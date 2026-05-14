@@ -96,8 +96,7 @@ The following visualizations demonstrate the performance and behavior of the KNN
 
 The following figure illustrates the learning behavior of machine learning models under different fitting conditions.
 
-![image](<img width="884" height="484" alt="underfitt overfitt" src="https://github.com/user-attachments/assets/52ab7858-e2cc-4fc7-b6f4-870744daf306" />
-)
+<img width="884" height="484" alt="underfitt overfitt" src="https://github.com/user-attachments/assets/08d76d85-cc3f-4e10-8022-84eeb46fab67" />
 
 ---
 
@@ -105,8 +104,8 @@ The following figure illustrates the learning behavior of machine learning model
 
 The confusion matrix shows the classification performance of the KNN model including true positives, true negatives, false positives, and false negatives.
 
-![image](<img width="1338" height="484" alt="confusion  matrix" src="https://github.com/user-attachments/assets/272c235c-78e4-4bc8-ab01-0384a3559dbe" />
-)
+<img width="1338" height="484" alt="confusion  matrix" src="https://github.com/user-attachments/assets/2dfd943a-34fe-4584-a7f1-3357142ce170" />
+
 
 ---
 
@@ -114,8 +113,8 @@ The confusion matrix shows the classification performance of the KNN model inclu
 
 The following figure compares different evaluation metrics including Accuracy, Precision, Recall, and F1-Score.
 
-![image](<img width="784" height="484" alt="model performance metrics" src="https://github.com/user-attachments/assets/2a8af6a2-ccae-4bab-9e04-d43fac124230" />
-)
+<img width="784" height="484" alt="model performance metrics" src="https://github.com/user-attachments/assets/1916151e-24fd-400b-9824-bc7f2aa73847" />
+
 
 ---
 
@@ -123,8 +122,8 @@ The following figure compares different evaluation metrics including Accuracy, P
 
 The ROC curve comparison demonstrates the classification performance of the KNN model for different K values.
 
-![image](<img width="884" height="584" alt="ROC curve at differnet level" src="https://github.com/user-attachments/assets/fcedceb2-fb0c-4fba-9452-1be2fa631e38" />
-)
+<img width="884" height="584" alt="ROC curve at differnet level" src="https://github.com/user-attachments/assets/3c40c5e0-6ba2-47fa-b5da-321693d17e96" />
+
 
 ---
 
